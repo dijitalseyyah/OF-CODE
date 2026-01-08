@@ -1,0 +1,11 @@
+# .gitignore
+*.log
+.DS_Store
+node_modules/
+dist/
+build/
+.env
+*.bak
+*.tmp
+assets/*.png
+!assets/.gitkeep
