@@ -89,6 +89,20 @@ Of tarihi, sadece kalemle değil, aynı zamanda kılıçla da yazılmıştır. 1
 
 Bu dijital arşivin genişlemesi, doğru bilgi ve belgelerin toplanmasına bağlıdır. Of tarihine dair bilgi eklemek için lütfen [CONTRIBUTING.md](CONTRIBUTING.md) dosyasını inceleyin.
 
+---
+
+## 👨‍💻 Geliştirici Hakkında
+
+**Bahattin Yunus Çetin**  
+*IT Architect / Akademik Araştırmacı*
+
+Trabzon'un Of ilçesinde eğitim hayatını sürdüren ve teknoloji ile kültürel mirası harmanlamayı vizyon edinen bir BT Mimarı. Bu proje, bölgenin tarihsel otoritesini modern dokümantasyon standartlarıyla (Architecture-as-Code) birleştirme çabasının bir ürünüdür.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bahattinyunus)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bahattinyunus/)
+
+---
+
 ## 📢 Motto
 
 > **"Her yer Of, ama sadece Of merkezdir."**
