@@ -7,5 +7,6 @@ build/
 .env
 *.bak
 *.tmp
-assets/*.png
+# Visual assets are needed for README
+!assets/*.png
 !assets/.gitkeep
