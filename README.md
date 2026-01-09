@@ -143,7 +143,7 @@ Detaylar ve katkı rehberi için lütfen şu dokümanı inceleyin: [CONTRIBUTING
 **Bahattin Yunus Çetin**  
 *IT Architect / Stratejik Teknoloji Laboratuvarı Kurucusu / Of-Code Maintainer*
 
-Trabzon'un kalbi Of'ta kök salan, dedelerinden aldığı manevi mirası akademik titizlikle harmanlayan ve bunu teknolojik bir vizyonla birleştiren bir BT Mimarı. Of'un o fıtri idare sanatını, keskin analitik zekasını ve yılmaz iradesini, modern yazılım dünyasının dökümantasyon standartlarına (Architecture-as-Code) tercüme eden dijital bir köprü. Sadece kod yazan değil, kodların ardındaki ruhu, toprakların altındaki tarihi ve geleceğin stratejisini gören bir vizyoner. O, bu projeyi bir hobi olarak değil, bir vatan borcu ve tarihsel bir misyon olarak yürütmektedir.
+Trabzon'un kalbi Of'ta bir misafir, ancak Şereflikoçhisar’ın öz evladı. Akademik yolculuğunu Of'un derin ve köklü atmosferinde sürdüren, Tuz Gölü'nün dingin bilgeliğini Karadeniz'in hırçın dalgalarıyla harmanlayan bir BT Mimarı. Of’ta geçirdiği eğitim süreci, ona sadece akademik bilgi değil, aynı zamanda bu coğrafyanın 'Yönetim ve İrade' kodlarını (Administrative Kernel) yakından inceleme fırsatı sundu. Bir "gözlemci" (Observer) hassasiyetiyle, Of’un sosyal ve idari yapısını analiz eden, Şereflikoçhisar'ın vakur duruşunu Of'un pratik zekasıyla birleştiren bir teknoloji vizyoneri. O, bu projeyi hem bir vefa borcu hem de sosyolojik bir dijital arşivleme görevi olarak yürütmektedir.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bahattinyunus)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bahattinyunus/)
