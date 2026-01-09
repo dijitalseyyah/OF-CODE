@@ -36,6 +36,19 @@ Of toplumunu ayakta tutan ve yüzyıllardır değişmeyen, kağıda dökülmemi�
 4.  **Madde 4 - Çözüm Odaklılık (Bug Fixing):** "Olmaz" diye bir şey yoktur, "Henüz denenmemiş bir yöntem" vardır. Bir Oflu için imkansız, sadece biraz zaman alan bir "Derleme Süreci"dir (Compilation Time). Mevzuat izin vermiyorsa, mevzuat "Refactor" edilir.
 5.  **Madde 5 - Vatan Savunması (Firewall Rules):** Söz konusu vatan veya namus olduğunda, tüm bireysel anlaşmazlıklar askıya alınır ve yekvücut bir savunma duvarı (Firewall) örülür. Bu duvardan sızmak (Intrusion) imkansızdır.
 
+### ⚠️ Sistem Gereksinimleri (System Requirements)
+
+Bu platformda (Of Coğrafyası) stabil bir şekilde çalışabilmek veya bu işletim sistemiyle (Oflu) uyumlu bir etkileşim kurabilmek için aşağıdaki donanım ve yazılım gereksinimlerine sahip olmanız önerilir:
+
+| Bileşen | Minimum Gereksinimler | Önerilen Gereksinimler |
+| :--- | :--- | :--- |
+| **İşlemci (CPU)** | Standart mantık yürütme kapasitesi | Çok çekirdekli "Pratik Zeka" ve anlık "Context Switching" yeteneği |
+| **Hafıza (RAM)** | Temel sabır kapasitesi | Sonsuz Sabır (Infinite Buffer Size) ve yüksek stres toleransı |
+| **Depolama** | Karadeniz fıkralarına yer | Geniş bir sülale ağacı veritabanı ve tarihsel anekdot arşivi |
+| **Ağ (Network)** | 4.5G bağlantısı | Ankara'da "Dayı", "Amca" veya "Bakan" düzeyinde dedike hat (Dedicated Line) |
+| **Güç Kaynağı** | Çay ve hamsi | Rize Turist Çayı (Demli) ve Mısır Ekmeği (Yüksek Oktanlı Yakıt) |
+| **İşletim Sistemi** | Windows/Linux | OfluOS v2026 (KernelPanic korumalı özel sürüm) |
+
 ---
 
 ## 🏛️ Mimari Akış: Otoritenin Katmanları
@@ -123,6 +136,28 @@ Türkiye Cumhuriyeti'nin yönetim şemasında "Of" bir imzadır. Of; güvenin, s
 >
 > **Q: Of'ta "Hayır" cevabı ne anlama gelir?**  
 > **A:** Of lügatında "Hayır", asla bir ret cevabı değildir. Bu, "Henüz beni ikna edecek kadar yaratıcı ve kararlı davranmadın, lütfen argümanlarını güncelle ve tekrar dene" anlamına gelen bir 'challenge response' mekanizmasıdır. Bir Oflu'ya "Hayır" dedirtmek imkansızdır, sadece o an için "Beklemede" (Pending) statüsündesinizdir.
+
+---
+
+## 🔧 Sorun Giderme (Troubleshooting)
+
+Of ekosisteminde karşılaşabileceğiniz muhtemel hatalar ve çözüm önerileri:
+
+**Hata Kodu: `CONFLICT_409` (Tartışma Çatışması)**
+*   **Belirti:** Bir Oflu ile siyaset veya futbol tartışmasına girdiniz ve tansiyon yükseliyor.
+*   **Çözüm:** Derhal "Haklısın" (ACK signal) diyerek bağlantıyı sonlandırın. Aksi takdirde sonsuz döngüye (Infinite Loop) girer ve sistem kaynaklarınızı tüketirsiniz.
+
+**Hata Kodu: `TIMEOUT_504` (Çay Molası)**
+*   **Belirti:** İşler durdu, kimseye ulaşamıyorsunuz.
+*   **Çözüm:** Büyük ihtimalle "Çay Saati" güncellemesi gelmiştir. Bekleyin, çay içildikten sonra sistem performansı %200 artışla (Overclock) geri gelecektir.
+
+**Hata Kodu: `ACCESS_DENIED_403` (Yabancı Tesbiti)**
+*   **Belirti:** Bir topluluğa girdiniz ve size şüpheyle bakılıyor.
+*   **Çözüm:** Ortak bir tanıdık referansı (Token Auth) sunun veya "Bize her yer Trabzon" şifresini (Passphrase) girin. Erişim izni anında verilecektir.
+
+**Hata Kodu: `LOGIC_ERROR` (Düz Mantık Hatası)**
+*   **Belirti:** Oflu'nun yaptığı bir iş size mantıksız geliyor ama sonuç mükemmel çalışıyor.
+*   **Çözüm:** Bu bir hata değil, **Oflu Mühendisliği** özelliğidir. "Çalışıyorsa Dokunma" (If it works, don't touch it) prensibini uygulayın.
 
 ---
 
