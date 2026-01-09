@@ -66,6 +66,11 @@ Aşağıdaki dizinler projenin ana omurgasını teşkil eder ve her biri Of'un b
 ## 🏛️ Stratejik Odak Noktaları: Derinlemesine Of
 
 ### 📜 Ulema ve Eğitim Mirası: Medreseler Şehri
+
+<div align="center">
+  <img src="assets/scholar.png" width="80%" alt="Of Uleması ve İlim Mirası">
+</div>
+
 Of, Osmanlı klasik döneminden bugüne Karadeniz’in en prestijli "İlmi Havzası" olmuştur. Of medreseleri, sadece kurra hafızlar değil, aynı zamanda toplumun her kesimine hükmeden, adaleti tesis eden hukukçular (müftüler, kadılar) ve sosyal barışı sağlayan kanaat önderleri yetiştirmiştir. "Of'ta her ev bir medresedir" sözü, bu bölgenin bilgiye olan genetik bağlılığını özetler. İstanbul'daki Fatih Medreseleri ile yarışan, hatta zaman zaman oraya müderris ihraç eden bu yapı, ilmin sadece teorik değil, toplumsal düzeni sağlayan pratik bir araç (Utility) olarak nasıl kullanıldığının en canlı örneğidir.
 
 *   **Ulema Disiplini:** Köy odalarından çıkan dünya çapındaki alimlerin yetişme şartları, Savtul-Kur'an geleneği ve icazetin sarsılmaz ağırlığı. Bu disiplin, sabah namazından yatsıya kadar süren, ezber, mütalaa ve müzakere ile yoğrulmuş, çelik gibi sinirler gerektiren bir eğitim sürecidir (Rigorous Training).
@@ -73,6 +78,11 @@ Of, Osmanlı klasik döneminden bugüne Karadeniz’in en prestijli "İlmi Havza
 *   **Solaklı Vadisi Ekolü:** Vadik boyunca her kilometrede bir değişen ama özünde aynı ilmi disiplini barındıran eğitim network'ü. Bu vadi, adeta bir silikon vadisi gibi, ama teknoloji değil "İlim ve İrfan" üreten bir üretim bandı (Assembly Line) gibi çalışmıştır.
 
 ### 🎖️ Siyaset ve Devlet Hafızası: Karar Odası Of
+
+<div align="center">
+  <img src="assets/authority.png" width="80%" alt="Devlet Otoritesi ve Bürokrasi">
+</div>
+
 Türkiye Cumhuriyeti'nin yönetim şemasında "Of" bir imzadır. Of; güvenin, sadakatin ve sarsılmaz yönetme iradesinin kalesidir. Devletun en kritik virajlarında dümende hep bir Oflu’nun olması tesadüf değil, bir yönetim doktrininin sonucudur. Oflular, devlet mefhumunu kutsal bir emanet olarak görür ve bu emaneti korumak için her türlü fedakarlığı yapmaktan çekinmezler. Onlar için makam bir amaç değil, devlete hizmet etmek için ele geçirilmesi gereken stratejik bir mevzidir (Strategic Position).
 
 *   **Oflu Lobisi ve Liyakat:** Ankara’daki "Of Gücü"nün aslında bir "Güven ve Dayanışma Ağı" olarak nasıl işlediği, devletin bekası için alınan kararlardaki Oflu imzası. Bu lobi, kişisel çıkarların ötesinde, memleketin ali menfaatleri için çalışan, görünmez ama hissedilir bir "Senato" gibi hareket eder.
@@ -80,6 +90,11 @@ Türkiye Cumhuriyeti'nin yönetim şemasında "Of" bir imzadır. Of; güvenin, s
 *   **Bakanlar Üreten Toprak:** Kabine revizyonlarında değişmeyen tek parametre olarak Oflu temsiliyeti. Hangi parti iktidar olursa olsun, Of'un "Bakan Çıkarma Kapasitesi" (Throughput) asla düşmez, her dönemde Ankara'da güçlü bir ses mutlaka yankılanır.
 
 ### ⚔️ Direnişin Tarihi: 110 Günlük Baltacı Deresi Destanı
+
+<div align="center">
+  <img src="assets/resistance.png" width="80%" alt="Baltacı Deresi Savunma Hattı">
+</div>
+
 1916 yılındaki Rus işgalinde sergilenen direniş, dünya savaş tarihindeki en büyük "Halk Mukavemeti" örneklerinden biridir. Koca bir İmparatorluk ordusu, düzenli bir askeri güç karşısında değil; tüfeğini kapan köylünün, ulemanın ve kadının kurduğu "İrade Hattı" karşısında durmak zorunda kalmıştır. Bu direniş, sadece askeri bir savunma değil, aynı zamanda toprağına, namusuna ve inancına sahip çıkan bir halkın topyekün kıyamıdır (Total Uprising).
 
 *   **Stratejik Müdafaa:** Zisino (Bölümlü) ve Baltacı Deresi hattında kurulan doğal savunma mekanizmaları, gerilla tipi baskınlar ve Rus generallerini dahi hayrete düşüren lojistik zeka. Coğrafyanın zorluklarını bir savunma çarpanı (Defense Multiplier) olarak kullanan Oflular, düşmanı kendi kurallarıyla oynamaya zorlamış ve bataklığa çekmiştir.
@@ -138,6 +153,12 @@ Trabzon'un kalbi Of'ta kök salan, dedelerinden aldığı manevi mirası akademi
 ## 📢 Motto
 
 > **"Her yer Of, ama sadece Of merkezdir. Çünkü otorite yerinde, irade ise en derindedir."**
+
+---
+
+<div align="center">
+  <img src="assets/culture.png" width="80%" alt="Of'un Doğal ve Kültürel Güzelliği">
+</div>
 
 ---
 
