@@ -15,7 +15,7 @@
 
 ## 🧭 Proje Vizyonu: Oflu Genomunun Şifreleri
 
-**OF-CODE**, antik çağların gizeminden modern Türkiye’nin bürokratik koridorlarına kadar Of’un geçirdiği muazzam dönüşümü, bir bölgenin nasıl "Devlet İçinde Devlet, Hafıza İçinde Tarih" haline geldiğini akademik ve sosyolojik titizlikle inceler. Of; ulemasıyla ilmi otoriteyi, siyasetçisiyle devletin çelik çekirdeğini, iş dünyasındaki sarsılmaz ağırlığıyla ekonomik pragmatizmi ve kendine has "keskin, hazırcevap ve otoriter" mizahıyla hayatın bizzat kendisini tanımlar.
+**OF-CODE**, antik çağların gizeminden modern Türkiye’nin bürokratik koridorlarına kadar Of’un geçirdiği muazzam dönüşümü, bir bölgenin nasıl "Devletin Sarsılmaz Kalesi, Hafıza İçinde Tarih" haline geldiğini akademik ve sosyolojik titizlikle inceler. Of; ulemasıyla ilmi otoriteyi, siyasetçisiyle devletin çelik çekirdeğini, iş dünyasındaki sarsılmaz ağırlığıyla ekonomik pragmatizmi ve kendine has "keskin, hazırcevap ve otoriter" mizahıyla hayatın bizzat kendisini tanımlar.
 
 Bu projenin temel vizyonu, yüzeysel bilgilerin ötesine geçerek **"Oflu Entelektüel Sermayesi"**ni ve kültürel kodlarını yapısal bir dille analiz etmektir. Of, bir ilçe olmanın çok ötesinde, toplumsal bir direncin ve yönetimsel bir dehanın dünya üzerindeki merkez üssüdür.
 
@@ -55,7 +55,7 @@ graph TD
 Aşağıdaki dizinler projenin ana omurgasını teşkil eder ve her biri Of'un birer "mükemmeliyet merkezi" olan uzmanlık alanlarını temsil eder:
 
 *   [**📜 01_İlim_Hafizasi/**](01_Ilim_Hafizasi/) - **(Kernel Modülü):** "Karadeniz'in Al-Azhar'ı" olarak bilinen Of'un derin ilmi mirası. Sadece dini eğitim değil, toplumsal hukuku (Fıkıh) düzenleyen ulema disiplini ve icazet sisteminin kodları. Solaklı Vadisi boyunca uzanan medrese zincirinin haritalanması.
-*   [**🏛️ 02_Siyaset_Laboratuvari/**](02_Siyaset_Laboratuvari/) - **(Control Plane):** Devlet mekanizmasındaki "Oflu Ağırlığı"nın anatomisi. Bakanlar, müsteşarlar, genel müdürler ve Türk bürokrasisindeki "Oflu Kadroculuk" geleneğinin sosyolojik analizi. Ankara'daki "Gölge Kabine" efsanelerinin rasyonel incelemesi.
+*   [**🏛️ 02_Siyaset_Laboratuvari/**](02_Siyaset_Laboratuvari/) - **(Control Plane):** Devlet mekanizmasındaki "Oflu Ağırlığı"nın anatomisi. Bakanlar, müsteşarlar, genel müdürler ve Türk bürokrasisindeki "Oflu Kadroculuk" geleneğinin sosyolojik analizi. Ankara'daki "Devlet Adamı Ekolü" gerçeğinin rasyonel incelemesi.
 *   [**⚔️ 03_Milli_Mucadele/**](03_Milli_Mucadele/) - **(Defense System):** 1916 Rus işgaline karşı serpilen "Milis İradenin" teknik dokümanları. Baltacı Deresi'nde durdurulan imparatorluk ordusunun ve o günkü gerilla taktiklerinin detaylı dökümü.
 *   [**🌊 04_Sosyal_Yapi/**](04_Sosyal_Yapi/) - **(Network Topology):** Mikrososyobiyolojik bir analiz: Sülale Federasyonları. Sarıalioğulları, Çakıroğulları, Nuhoğulları ve diğer büyük ailelerin toplumsal hiyerarşideki rolleri ve "Ağalık" kurumunun modern izdüşümleri.
 *   [**📖 05_Of_Lügatı/**](05_Of_Lugati/) - **(Communication Protocol):** Of ağzının matematiksel ve pratik grameri. Karşısındakini tek bir hazırcevapla "bypass" eden linguistik sanat, bölgeye özgü deyimler ve racon kuralları. "Haçan", "Ula", "Cenik" gibi anahtar kelimelerin (keywords) semantik derinliği.
